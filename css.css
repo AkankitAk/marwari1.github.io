@@ -1,0 +1,148 @@
+.menu{
+    background-color:rgb(41, 111, 59) ;
+    color: white;
+    font-size: small;
+}
+.menu1{
+    background-color:rgb(41, 111, 59) ;
+    color: white;
+    font-size: small;
+}
+.menu1 ul li a:hover{
+    background-color:rgb(41, 111, 59) ;
+    color: yellow;
+    font-size: small;
+    text-decoration:underline;
+}
+.menu:hover{
+    background-color:orange ;
+    color: white;
+    font-size: small;
+}
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+.activemenu{
+    background-color:orange;
+}
+.nav-link{
+    color: white;
+}
+.head{
+    background-color:rgb(194, 225, 108);
+}
+.btn {
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: normal;
+    
+    border: 1px solid transparent;
+}
+.img-fluid{
+    
+}
+.btn:hover {
+    background-color:yellow;
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: normal;
+
+    border: 1px solid transparent;
+}
+h5{
+    background-color:rgb(236, 145, 65) ;
+    color: white;
+}
+.span{
+    font-size: large;
+    font-weight: bold;
+    color: red;
+}
+.span1{
+    font-size: large;
+    font-weight: 500;
+}
+
+.FooterSlider11-FooterSlider11 {
+    display: inline-block;
+    margin-top: 7px;
+    animation: marquee 15s linear infinite;
+    animation-duration: 75s;
+    animation-timing-function: linear;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-fill-mode: none;
+    animation-play-state: running;
+    animation-name: marquee;
+    animation-duration: 75s;
+}
+
+.borderimg {
+    border: 1px solid darkgray;
+    border-top-color: darkgray;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right-color: darkgray;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-color: darkgray;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: darkgray;
+    border-left-style: solid;
+    border-left-width: 1px;
+    outline: 1px solid #ffc341;
+    outline-color: rgb(255, 195, 65);
+    outline-style: solid;
+    outline-width: 2px;
+    outline-offset: 2px;
+    width: 190px;
+    height: 75px;
+}
+
+.span3{
+    background-color: black;
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+.nav-link{
+    color: white;
+}
+mark{
+    background-color: blue;
+    color: white;
+}
+.btn1{
+    color:black;
+}
+.link{
+    color:red;
+}
+.fade ul{
+    list-style-type:none;
+}
+hr{
+    border-top: 1px dashed black;
+}
+.span4 ul{
+    list-style-type:none;
+}
+
+.container{
+    border:1px solid blue;
+}
+
+
+
+
+
+/* NAAC Page Css    */
+.nh5{
+    margin-top:25px;
+}
+.nh5 ul{
+    list-style-type:none;
+}
