@@ -1,7 +1,29 @@
 .menu{
     background-color:rgb(41, 111, 59) ;
     color: white;
-    font-size: large;
+    font-size: small;
+}
+.menu1{
+    background-color:rgb(41, 111, 59) ;
+    color: white;
+    font-size: small;
+}
+.menu1 ul li a:hover{
+    background-color:rgb(41, 111, 59) ;
+    color: yellow;
+    font-size: small;
+    text-decoration:underline;
+}
+.menu:hover{
+    background-color:orange ;
+    color: white;
+    font-size: small;
+}
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+.activemenu{
+    background-color:orange;
 }
 .nav-link{
     color: white;
@@ -10,6 +32,17 @@
     background-color:rgb(194, 225, 108);
 }
 .btn {
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: normal;
+    
+    border: 1px solid transparent;
+}
+.img-fluid{
+    
+}
+.btn:hover {
+    background-color:yellow;
     padding: 6px 12px;
     font-size: 14px;
     font-weight: normal;
@@ -81,4 +114,35 @@ a{
 mark{
     background-color: blue;
     color: white;
+}
+.btn1{
+    color:black;
+}
+.link{
+    color:red;
+}
+.fade ul{
+    list-style-type:none;
+}
+hr{
+    border-top: 1px dashed black;
+}
+.span4 ul{
+    list-style-type:none;
+}
+
+.container{
+    border:1px solid blue;
+}
+
+
+
+
+
+/* NAAC Page Css    */
+.nh5{
+    margin-top:25px;
+}
+.nh5 ul{
+    list-style-type:none;
 }
